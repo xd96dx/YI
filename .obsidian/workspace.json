@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "75118ec54f497893",
+    "type": "split",
+    "children": [
+      {
+        "id": "6515b13f15144612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f5799dbc7d7c505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treatise on Febrile Diseases and Miscellaneous Diseases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38375187ac5299df",
+    "type": "split",
+    "children": [
+      {
+        "id": "14aea773451eabb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6689b6297621cc73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a0e5bf6c053d13c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d8558fcc9906f30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b646bbb8f7c52cc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "19abb5196cbbeace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad5e487fd7c0604",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Treatise on Febrile Diseases and Miscellaneous Diseases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "768278b38491c40f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Treatise on Febrile Diseases and Miscellaneous Diseases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30ea6327c5feae55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ecdf94111b0e721",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Treatise on Febrile Diseases and Miscellaneous Diseases.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0f5799dbc7d7c505",
+  "lastOpenFiles": [
+    "Treatise on Febrile Diseases and Miscellaneous Diseases.md"
+  ]
+}
